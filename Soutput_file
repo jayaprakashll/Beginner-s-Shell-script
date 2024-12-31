@@ -1,0 +1,7 @@
+System Health Check:
+------mmmmmmmemoo 
+Uptime:  19:57:47 up  6:49,  2 users,  load average: 0.87, 0.90, 0.77” >> Soutput_file
+echo Load Average: 0.87 0.90 0.77 2/1263 128272”
+Memory Usage:                total        used        free      shared  buff/cache   available
+Mem:           15322        4786        7287         122        3698       10536
+Swap:           4095          37        4058
